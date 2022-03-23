@@ -101,7 +101,6 @@ function bookSeat(elBtn) {
 
 function unSelectSeat() {
     hideSeatDetails();
-    // TODO: remove 'selected' class and reset el
 }
 
 
